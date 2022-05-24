@@ -1,0 +1,30 @@
+---
+title: "Egzamin (pierwszy termin) - Wizualizacja danych - Zestaw E01"
+lang: pl
+output:
+  word_document: default
+  pdf_document: default
+---
+
+*Każde zadanie po 15 pkt. Punktacja: 41-45 pkt - bdb(5,0); 36-40 pkt - db+(4,5), 32-35 pkt - db(4,0), 27-31 pkt - dst+(3,5), 23-26 pkt - dst(3,0), 0-22 pkt - ndst (2,0).* 
+
+Zad.1. Odwzoruj wykres znajdujący się w pliku o nazwie e1.png. Odcienie kolorów mogą się różnić, jednak główne barwy muszą być zachowane.
+Zapisz wykres w formacie pdf za pomocą kodu. 
+
+Zad.2. W jednym pliku wykonaj poniższe czynności:
+
+* załaduj dane z pliku ceny.xlsx jako ramkę danych (Data Frame),
+* wyświetl na konsoli średnią cenę jabłek i pomarańczy za rok 2017
+* stwórz wykres liniowy prezentujący dane zawarte w ramce danych
+
+Wykres powinien być estetyczny i podpisany. Im więcej - tym lepiej.
+
+Zapisz wykres w formacie jpg za pomocą kodu.
+
+Zad.3. W jednym pliku wykonaj poniższe czynności:
+
+* załaduj dane z pliku gastro.csv,
+* uporządkuj dane tak, aby liczba odpowiednich punktów gastronomicznych była zawarta w kolumnie/kolumnach,
+* stwórz wykres słupkowy prezentujący dane zawarte w pliku.
+
+Zapisz wykres w formacie png za pomocą kodu.
